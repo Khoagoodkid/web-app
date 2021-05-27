@@ -1,6 +1,6 @@
 
 import './App.css';
-import "bootstrap/dist/css/bootstrap.min.css";
+
 import "./index.css";
 import React, { useState } from 'react';
 import Button from './components/Buttons';
